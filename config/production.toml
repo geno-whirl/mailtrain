@@ -1,0 +1,11 @@
+language="fr_FR"
+
+[mysql]
+host="mysql"
+
+[redis]
+enabled=true
+host="redis"
+
+[reports]
+enabled=true
